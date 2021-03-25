@@ -44,6 +44,12 @@
          "id":31,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/youtu.be\/XdQxlN0JdZY"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
